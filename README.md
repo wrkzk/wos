@@ -1,6 +1,8 @@
 
 # Warren's Operating System (WOS)
 
+![WOS Screenshot](wos.png?raw=true "WOS Screenshot")
+
 This project is a simple OS kernel with limited functionality. WOS supports keyboard input, and also has a timer subsystem. WOS is an interrupt-driven kernel, meaning that it supports receiving interrupt requests and acting based upon these. Both the keyboard and the timer user IRQs to function.
 
 ## How to Run
