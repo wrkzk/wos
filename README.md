@@ -9,7 +9,7 @@ This project is a simple OS kernel with limited functionality. WOS supports keyb
 
 
 
-Ensure that the proper `gcc` is installed, then clone the project
+Ensure that `nasm` is installed, as well as the `i686-elf-gcc` cross compiler, then clone the project
 
 ```bash
   git clone https://github.com/wrkzk/wos.git
